@@ -1,3 +1,4 @@
+//updated
 // index.c — Staging area implementation
 
 #include "index.h"
