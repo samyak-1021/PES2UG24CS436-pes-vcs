@@ -1,3 +1,4 @@
+// serialization logic added
 // tree.c — Tree object serialization and construction
 //
 // PROVIDED functions: get_file_mode, tree_parse, tree_serialize
