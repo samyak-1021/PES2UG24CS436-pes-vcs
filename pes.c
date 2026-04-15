@@ -1,4 +1,4 @@
-//updated
+//update
 #include "pes.h"
 #include <stdlib.h>
 #include <stdio.h>
